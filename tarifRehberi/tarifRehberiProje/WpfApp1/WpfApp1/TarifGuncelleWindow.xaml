@@ -1,0 +1,29 @@
+﻿<Window x:Class="TarifRehberi.TarifGuncelleWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Tarif Güncelle" Height="600" Width="500">
+    <Grid Margin="10">
+        <StackPanel>
+            <TextBlock Text="Tarif Adı:" Margin="0,5,0,0"/>
+            <TextBox Name="TarifAdiTextBox" Width="450"/>
+
+            <TextBlock Text="Kategori:" Margin="0,5,0,0"/>
+            <ComboBox Name="KategoriComboBox" Width="450">
+
+            </ComboBox>
+
+            <TextBlock Text="Hazırlama Süresi (dk):" Margin="0,5,0,0"/>
+            <TextBox Name="HazirlamaSuresiTextBox" Width="450"/>
+
+            <TextBlock Text="Talimatlar:" Margin="0,5,0,0"/>
+            <TextBox Name="TalimatlarTextBox" Width="450" Height="100" AcceptsReturn="True" TextWrapping="Wrap"/>
+
+            <TextBlock Text="Malzemeler:" Margin="0,5,0,0"/>
+            <ListBox Name="MalzemeListesi" Width="450" Height="150">
+
+            </ListBox>
+            <Button Content="Malzeme Ekle" Width="117" Click="OnMalzemeEkleClick" Margin="3,10,4,5" Height="41" Background="#FF4CAF50"/>
+            <Button Content="Güncelle" Width="117" Click="OnTarifGuncelleClick" Margin="3,10,4,5" Height="41" Background="#FF4CAF50"/>
+        </StackPanel>
+    </Grid>
+</Window>

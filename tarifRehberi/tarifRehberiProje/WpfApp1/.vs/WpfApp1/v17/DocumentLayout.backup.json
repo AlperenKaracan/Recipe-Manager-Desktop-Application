@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alper\\source\\repos\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4420E53C-00F0-4D05-9DD8-B1D8815E7B32}|WpfApp1\\WpfApp1.csproj|c:\\users\\alper\\source\\repos\\wpfapp1\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4420E53C-00F0-4D05-9DD8-B1D8815E7B32}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4420E53C-00F0-4D05-9DD8-B1D8815E7B32}|WpfApp1\\WpfApp1.csproj|c:\\users\\alper\\source\\repos\\wpfapp1\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4420E53C-00F0-4D05-9DD8-B1D8815E7B32}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4420E53C-00F0-4D05-9DD8-B1D8815E7B32}|WpfApp1\\WpfApp1.csproj|c:\\users\\alper\\source\\repos\\wpfapp1\\wpfapp1\\tarifguncellewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4420E53C-00F0-4D05-9DD8-B1D8815E7B32}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\tarifguncellewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4420E53C-00F0-4D05-9DD8-B1D8815E7B32}|WpfApp1\\WpfApp1.csproj|c:\\users\\alper\\source\\repos\\wpfapp1\\wpfapp1\\tarifguncellewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4420E53C-00F0-4D05-9DD8-B1D8815E7B32}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\tarifguncellewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4420E53C-00F0-4D05-9DD8-B1D8815E7B32}|WpfApp1\\WpfApp1.csproj|c:\\users\\alper\\source\\repos\\wpfapp1\\wpfapp1\\tarifeklewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4420E53C-00F0-4D05-9DD8-B1D8815E7B32}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\tarifeklewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4420E53C-00F0-4D05-9DD8-B1D8815E7B32}|WpfApp1\\WpfApp1.csproj|c:\\users\\alper\\source\\repos\\wpfapp1\\wpfapp1\\tarifeklewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4420E53C-00F0-4D05-9DD8-B1D8815E7B32}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\tarifeklewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4420E53C-00F0-4D05-9DD8-B1D8815E7B32}|WpfApp1\\WpfApp1.csproj|c:\\users\\alper\\source\\repos\\wpfapp1\\wpfapp1\\recipedetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4420E53C-00F0-4D05-9DD8-B1D8815E7B32}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\recipedetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4420E53C-00F0-4D05-9DD8-B1D8815E7B32}|WpfApp1\\WpfApp1.csproj|c:\\users\\alper\\source\\repos\\wpfapp1\\wpfapp1\\recipedetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4420E53C-00F0-4D05-9DD8-B1D8815E7B32}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\recipedetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4420E53C-00F0-4D05-9DD8-B1D8815E7B32}|WpfApp1\\WpfApp1.csproj|c:\\users\\alper\\source\\repos\\wpfapp1\\wpfapp1\\malzemeeklewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4420E53C-00F0-4D05-9DD8-B1D8815E7B32}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\malzemeeklewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4420E53C-00F0-4D05-9DD8-B1D8815E7B32}|WpfApp1\\WpfApp1.csproj|c:\\users\\alper\\source\\repos\\wpfapp1\\wpfapp1\\malzemeeklewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4420E53C-00F0-4D05-9DD8-B1D8815E7B32}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\malzemeeklewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4420E53C-00F0-4D05-9DD8-B1D8815E7B32}|WpfApp1\\WpfApp1.csproj|c:\\users\\alper\\source\\repos\\wpfapp1\\wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4420E53C-00F0-4D05-9DD8-B1D8815E7B32}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TarifGuncelleWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\WpfApp1\\WpfApp1\\TarifGuncelleWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\TarifGuncelleWindow.xaml",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\WpfApp1\\WpfApp1\\TarifGuncelleWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\TarifGuncelleWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-06T10:35:57.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TarifGuncelleWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\WpfApp1\\WpfApp1\\TarifGuncelleWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\TarifGuncelleWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\WpfApp1\\WpfApp1\\TarifGuncelleWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\TarifGuncelleWindow.xaml.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAwwKUAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T10:36:32.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAH8BAAAAAAAAAAAtwIgBAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T23:03:56.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TarifEkleWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\WpfApp1\\WpfApp1\\TarifEkleWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\TarifEkleWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\WpfApp1\\WpfApp1\\TarifEkleWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\TarifEkleWindow.xaml.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAQwI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T19:26:43.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-26T22:22:52.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RecipeDetail.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\WpfApp1\\WpfApp1\\RecipeDetail.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\RecipeDetail.xaml.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\WpfApp1\\WpfApp1\\RecipeDetail.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\RecipeDetail.xaml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:47:19.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RecipeDetail.xaml",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\WpfApp1\\WpfApp1\\RecipeDetail.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\RecipeDetail.xaml",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\WpfApp1\\WpfApp1\\RecipeDetail.xaml",
+              "RelativeToolTip": "WpfApp1\\RecipeDetail.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-25T15:46:52.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MalzemeEkleWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\WpfApp1\\WpfApp1\\MalzemeEkleWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MalzemeEkleWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\WpfApp1\\WpfApp1\\MalzemeEkleWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MalzemeEkleWindow.xaml.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:45:59.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MalzemeEkleWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\WpfApp1\\WpfApp1\\MalzemeEkleWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MalzemeEkleWindow.xaml",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\WpfApp1\\WpfApp1\\MalzemeEkleWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MalzemeEkleWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-25T15:45:35.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TarifEkleWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\WpfApp1\\WpfApp1\\TarifEkleWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\TarifEkleWindow.xaml",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\WpfApp1\\WpfApp1\\TarifEkleWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\TarifEkleWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-05T23:09:51.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\alper\\source\\repos\\WpfApp1\\WpfApp1\\App.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\App.xaml",
+              "ToolTip": "C:\\Users\\alper\\source\\repos\\WpfApp1\\WpfApp1\\App.xaml",
+              "RelativeToolTip": "WpfApp1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-27T02:08:04.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

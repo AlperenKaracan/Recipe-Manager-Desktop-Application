@@ -1,0 +1,18 @@
+﻿<Window x:Class="TarifRehberi.MalzemeEkleWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Malzeme Ekle" Height="300" Width="400">
+    <Grid Margin="10">
+        <StackPanel>
+            <TextBlock Text="Malzeme Seçin:" Margin="0,5,0,0"/>
+            <ComboBox Name="MalzemeComboBox" Width="350">
+
+            </ComboBox>
+
+            <TextBlock Text="Miktar:" Margin="0,5,0,0"/>
+            <TextBox Name="MiktarTextBox" Width="350"/>
+
+            <Button Content="Ekle" Width="112" Click="OnEkleClick" Margin="10,30,10,15" Height="39" Background="#FF4CAF50"/>
+        </StackPanel>
+    </Grid>
+</Window>
